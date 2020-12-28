@@ -1,18 +1,9 @@
-.App {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0 auto;
-  
-}
-
-.App h1 {
+.resultat {
   text-align: center;
-  font-family: "Lucida Console", Monaco, monospace;
-  font-size: 65px;
+  font-size: 25px;
   letter-spacing: 1px;
   word-spacing: -0.4px;
-  color: #f9fafc;
+  color: #eff0f3;
   font-weight: 700;
   text-decoration: underline solid rgb(8, 107, 236);
   font-style: normal;
@@ -20,8 +11,4 @@
   text-transform: capitalize;
   
 }
-
-
-
-
 

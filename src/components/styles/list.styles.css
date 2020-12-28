@@ -1,0 +1,28 @@
+.liste {
+  color: rgb(8, 107, 236);
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  border: 4px double rgb(8, 107, 236);
+  border-radius: 6px;
+  padding: 10px;
+  margin: 5px;
+  background-color: rgba(248, 248, 248, 0.9);
+}
+
+.liste h2 {
+  text-align: center;
+  font-size: 25px;
+  letter-spacing: 1px;
+  word-spacing: -0.4px;
+  color: rgb(8, 107, 236);
+  font-weight: 700;
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: capitalize;
+}
+  
+.liste ul {
+    list-style-type: inside;
+  }
+
